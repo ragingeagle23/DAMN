@@ -1,0 +1,19 @@
+body {
+  background: #111;
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+  padding: 30px;
+}
+img {
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+  cursor: pointer;
+}
+audio {
+  display: block;
+  margin: 30px auto;
+  width: 80%;
+  max-width: 400px;
+}
