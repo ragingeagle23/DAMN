@@ -11,7 +11,7 @@ function getDailyAudioIndex() {
 }
 
 function playAudio(index) {
-  audioElement.src = `audio/${index}.mp3`;
+  audioElement.src = `audio/${index}.wav`;
   audioElement.play();
 }
 
